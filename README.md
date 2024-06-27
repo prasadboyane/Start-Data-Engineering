@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -117,12 +116,26 @@
         <div class="separator"></div>
         
         <h2>Why Data Engineering?</h2>
+        <div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; padding: 10px;">
+        <h3 style="color: #005b96;">Difficulties</h3>
         <ul>
-            <li>High Demand for Data Engineers</li>
-            <li>Competitive Salaries</li>
-            <li>Opportunity to Work with Cutting-Edge Technology</li>
-            <li>Integral Role in Data-Driven Decision Making</li>
+            <li>Steep Learning Curve</li>
+            <li>Complex Data Pipelines</li>
+            <li>Keeping Up with Rapidly Changing Technologies</li>
+            <li>Ensuring Data Quality and Integrity</li>
         </ul>
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <h3 style="color: #005b96;">Solutions</h3>
+        <ul>
+            <li>Comprehensive Training Programs</li>
+            <li>Hands-on Practice with Real Projects</li>
+            <li>Access to the Latest Tools and Resources</li>
+            <li>Strong Focus on Data Governance and Best Practices</li>
+        </ul>
+    </div>
+</div>
 
         <div class="separator"></div>
 
