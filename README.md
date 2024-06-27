@@ -102,12 +102,11 @@
 </head>
 <body>
     <header>
-        <h1>Master Data Engineering</h1>
-        <p>Unlock the Power of Data</p>
-        <div class="center">
-            <a href="#signup" class="cta">Get Started Now</a>
-        </div>
-    </header>
+    <h1>Master Data Engineering</h1>
+    <img src="your-banner-image-url.jpg" alt="Data Engineering Banner" style="width: 100%; height: auto; margin-top: 20px;"/>
+    <p>Your gateway to a successful career in Data Engineering</p>
+    <a href="#start" class="cta-button">Get Started</a>
+</header>
 
     <div class="content">
         <h2>Welcome to Your Data Engineering Journey</h2>
